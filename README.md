@@ -1,5 +1,7 @@
 # 411_Blog_8
 Class 8
+
+
 Discuss in words something you learned in class today or this week.
   I learned about creating a route and then creating a protected route.
   
